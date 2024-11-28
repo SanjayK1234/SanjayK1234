@@ -1,18 +1,68 @@
-# 💫 About Me:
-**Introduction:**  <br>Hey there! 👋 I’m a freshly minted **data nerd** who loves diving into numbers and making sense of chaos. With skills in **Excel**, **SQL**, **Tableau**, and a bit of **Python**, I’ve built **ML models**, worked on cool projects like a **solar battery system**, and crushed it during my data science internship. 🔥 Super hyped to share my work, learn from the GitHub fam, and create some data-driven magic together. Let’s vibe and build! 🚀
+# Hey, I'm Sanjay K! 👋  
+**Aspiring Data Wizard 🔮 | Data Analytics Enthusiast 📊**  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjay K) 
-
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SanjayK1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SanjayK1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayK1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[💼 LinkedIn](https://www.linkedin.com/in/sanjay-k-73b01726b) | [📧 Email Me](mailto:sanjaykgowda200@gmail.com) | 📱 8123398038  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SanjayK1234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me ✨  
+Fresh **B.E. grad** in **Electronics & Comm Engineering** (2024) with a passion for **data storytelling**, **problem-solving**, and all things **analytics**. 🚀  
+I love diving into numbers, crunching data, and turning chaos into actionable insights. Let’s make data-driven magic happen! 🌟  
+
+---
+
+## My Toolbox 🛠️  
+
+### Technical Skills 🖥️  
+- **MS Excel** 🧮  
+- **MySQL** 🗄️  
+- **Tableau** 📈  
+- **Power BI** 💡  
+- **Python Basics** 🐍  
+
+### Soft Skills 💡  
+- Team Player 🤝  
+- Problem Solver 🔍  
+- Decision Maker ✅  
+- Time Manager ⏳  
+- Great Communicator 📢  
+
+---
+
+## What I’ve Been Up To 👨‍💻  
+
+### Internship: IETE Data Science (Aug - Sept 2023)  
+- Mastered **EDA** to dig up hidden data gems 💎.  
+- Built **ML models** to tackle real-world problems 🤖.  
+- Teamed up with smart folks to bring insights to life.  
+
+---
+
+## Cool Projects I’ve Worked On 🚀  
+
+### 🌞 Solar-Based Battery Management System  
+- Designed a system to make solar batteries smarter & last longer.  
+- Protected batteries from overcharging, deep discharges, and overheating.  
+
+### 🕵️ Motion Detector Using PIR Sensor  
+- Built a motion-sensing gadget that powers up when you’re around and chills when you’re not.  
+- Combined sensors + circuits to create a handy automation tool.  
+
+---
+
+## My Journey 🎓  
+
+- **B.E. in Electronics & Comm Engineering**  
+  Maharaja Institute of Tech, Mysore (2024) | **CGPA:** 7.5  
+- **12th Grade**  
+  Bright PU College, Mysore (2020) | **Score:** 80%  
+- **10th Grade**  
+  B S Maadappa Vidya Samsthe, Mysore (2018) | **Score:** 78.88%  
+
+---
+
+## Let’s Connect 🌐  
+Got a cool idea or just wanna chat data? Hit me up! 👇  
+📧 [sanjaykgowda200@gmail.com](mailto:sanjaykgowda200@gmail.com)  
+📞 8123398038  
+[💼 LinkedIn](https://www.linkedin.com/in/sanjay-k-73b01726b)  
